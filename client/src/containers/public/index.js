@@ -1,0 +1,14 @@
+export { default as Login } from "./login";
+export { default as Home } from "./home";
+export { default as Header } from "./header";
+export { default as Rental } from "./Rental";
+export { default as HomePage } from "./HomePage";
+export { default as Nav } from "./nav";
+export { default as Filter } from "./Filter";
+export { default as List } from "./List";
+export { default as SideBar } from "./SideBar";
+export { default as Pagination } from "./Pagination";
+export { default as DetailPost } from "./DetailPost";
+export { default as Footer } from "./Footer";
+export { default as FilterDetail } from "./FilterDetail";
+export { default as Contact } from "./contact";
